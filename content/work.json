@@ -1,29 +1,29 @@
 [
-  {
-    "title": "Computer Graphics-2",
-    "date": "[07|09|2024]",
-    "body": "<br> When modeling a phenomenon, understand the phenomenon you’re modeling and your goal in modeling it, then choose a rich-enough abstraction, and then choose adequate representations to capture your abstraction within the bounds of your resources. Once this is done, test to verify that your abstraction was appropriate.<br> Consider the impact of the human visual system on your problem and its models.<br> Arrival Rate: <ul class='list'><li class='content-item'> 100W incandescent bulb 10<sup>12</sup> photons / cm<sup>2</sup>/s </li><li class='content-item'> Sunlight 10<sup>15</sup> photons / cm<sup>2</sup>/s </li><li class='content-item'> Night Bulb 10<sup>16</sup> photons / cm<sup>2</sup>/s </li></ul><br> Human Eye <br> <ul class='list'><li class='content-item'>Angular Resolution: 300 mm/1km or 0.3mm/1m</li><li class='content-item'> the eye is very sensitive to motion, so two adjacent pixels in a gray region that alternately ﬂash white may give an illusion of motion that’s easily detectable, which might be useful for attracting the user’s attention.</li></ul>",
-    "links": [],
-    "references": "James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes. 1990. Computer graphics: principles and practice (2nd ed.). Addison-Wesley Longman Publishing Co., Inc., USA."
-  },
-  {
-    "title": "Computer Graphics-1",
-    "date": "[06|09|2024]",
-    "body": "<br>Graphic design and art combine with human-computer interaction to make the computer-to-human direction of communication most effective<br>Know what problem you are solving. Approximate the solution, not the problem.",
-    "links": [],
-    "references": "James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes. 1990. Computer graphics: principles and practice (2nd ed.). Addison-Wesley Longman Publishing Co., Inc., USA."
-  },
-  {
-    "title": "Quantum Computing",
-    "date": "[24|05|2024]",
-    "body": "<div class='quote'>Journey for quantum computing. Recording what I have lerant. </div> </br> Testing html markup. <br> New line. <ul> <div class='li-circle'> List Element 1 </div> <li>  List Element 2</li> </ul>",
-    "links": [],
-    "references": ""
-  },
+  // {
+  //   "title": "Computer Graphics-2",
+  //   "date": "[07|09|2024]",
+  //   "body": "<br> When modeling a phenomenon, understand the phenomenon you’re modeling and your goal in modeling it, then choose a rich-enough abstraction, and then choose adequate representations to capture your abstraction within the bounds of your resources. Once this is done, test to verify that your abstraction was appropriate.<br> Consider the impact of the human visual system on your problem and its models.<br> Arrival Rate: <ul class='list'><li class='content-item'> 100W incandescent bulb 10<sup>12</sup> photons / cm<sup>2</sup>/s </li><li class='content-item'> Sunlight 10<sup>15</sup> photons / cm<sup>2</sup>/s </li><li class='content-item'> Night Bulb 10<sup>16</sup> photons / cm<sup>2</sup>/s </li></ul><br> Human Eye <br> <ul class='list'><li class='content-item'>Angular Resolution: 300 mm/1km or 0.3mm/1m</li><li class='content-item'> the eye is very sensitive to motion, so two adjacent pixels in a gray region that alternately ﬂash white may give an illusion of motion that’s easily detectable, which might be useful for attracting the user’s attention.</li></ul>",
+  //   "links": [],
+  //   "references": "James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes. 1990. Computer graphics: principles and practice (2nd ed.). Addison-Wesley Longman Publishing Co., Inc., USA."
+  // },
+  // {
+  //   "title": "Computer Graphics-1",
+  //   "date": "[06|09|2024]",
+  //   "body": "<br>Graphic design and art combine with human-computer interaction to make the computer-to-human direction of communication most effective<br>Know what problem you are solving. Approximate the solution, not the problem.",
+  //   "links": [],
+  //   "references": "James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes. 1990. Computer graphics: principles and practice (2nd ed.). Addison-Wesley Longman Publishing Co., Inc., USA."
+  // },
+  // {
+  //   "title": "Quantum Computing",
+  //   "date": "[24|05|2024]",
+  //   "body": "<div class='quote'>Journey for quantum computing. Recording what I have lerant. </div> </br> Testing html markup. <br> New line. <ul> <div class='li-circle'> List Element 1 </div> <li>  List Element 2</li> </ul>",
+  //   "links": [],
+  //   "references": ""
+  // },
   {
     "title": "Template",
     "date": "[14|04|2024]",
-    "body": "<div class='quote'> Template post </div> </br> Testing html markup. <br> New line. <ul> <div class='li-circle'> List Element 1 </div> <li>  List Element 2</li> </ul>",
+    "body": "template.md",
     "links": [],
     "references": "References Here"
   }

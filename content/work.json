@@ -1,5 +1,26 @@
 [
   {
+    "title": "Computer Graphics-2",
+    "date": "[07|09|2024]",
+    "body": "computer_graphics_2.md",
+    "links": [],
+    "references": "James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes. 1990. Computer graphics: principles and practice (2nd ed.). Addison-Wesley Longman Publishing Co., Inc., USA."
+  },
+  {
+    "title": "Computer Graphics-1",
+    "date": "[06|09|2024]",
+    "body": "computer_graphics_1.md",
+    "links": [],
+    "references": "James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes. 1990. Computer graphics: principles and practice (2nd ed.). Addison-Wesley Longman Publishing Co., Inc., USA."
+  },
+  {
+    "title": "Quantum Computing",
+    "date": "[24|05|2024]",
+    "body": "quantum.md",
+    "links": [],
+    "references": ""
+  },
+  {
     "title": "Template",
     "date": "[14|04|2024]",
     "body": "template.md",

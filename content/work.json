@@ -1,5 +1,12 @@
 [
   {
+    "title": "Zero Knowledge SNARK",
+    "date": "[10|09|2024]",
+    "body": "snark_1.md",
+    "links": ["https://zkhack.dev/whiteboard/module-one/"],
+    "references": ""
+  },
+  {
     "title": "Computer Graphics-2",
     "date": "[07|09|2024]",
     "body": "computer_graphics_2.md",

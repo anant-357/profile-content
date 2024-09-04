@@ -1,21 +1,28 @@
 [
-  {
+ {
+    "title": "Linear Regression",
+    "date": "[14|09|2024]",
+    "body": "lin_reg_1.md",
+     "links": [],
+    "references": ""
+ },
+ {
     "title": "Zero Knowledge SNARK",
-    "date": "[10|09|2024]",
+    "date": "[10|08|2024]",
     "body": "snark_1.md",
     "links": ["https://zkhack.dev/whiteboard/module-one/"],
     "references": ""
   },
   {
     "title": "Computer Graphics-2",
-    "date": "[07|09|2024]",
+    "date": "[07|08|2024]",
     "body": "computer_graphics_2.md",
     "links": [],
     "references": "James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes. 1990. Computer graphics: principles and practice (2nd ed.). Addison-Wesley Longman Publishing Co., Inc., USA."
   },
   {
     "title": "Computer Graphics-1",
-    "date": "[06|09|2024]",
+    "date": "[06|08|2024]",
     "body": "computer_graphics_1.md",
     "links": [],
     "references": "James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes. 1990. Computer graphics: principles and practice (2nd ed.). Addison-Wesley Longman Publishing Co., Inc., USA."

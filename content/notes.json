@@ -1,14 +1,24 @@
 [
  {
+    "title": "Memory Allocation",
+    "date": "[05|09|2024]",
+    "body": "mem_alloc_1.md",
+     "links": [{
+         "name": "tsoding daily",
+         "link": "https://youtu.be/sZ8GJ1TiMdk?si=tO038Dlbs2xfZagR"
+     }],
+    "references": ""
+ },
+ {
     "title": "Linear Regression",
-    "date": "[14|09|2024]",
+    "date": "[14|08|2024]",
     "body": "lin_reg_1.md",
      "links": [],
     "references": ""
  },
  {
     "title": "Zero Knowledge SNARK",
-    "date": "[10|08|2024]",
+    "date": "[10|07|2024]",
     "body": "snark_1.md",
      "links": [{
          "name": "zkhack.dev",
@@ -18,14 +28,14 @@
   },
   {
     "title": "Computer Graphics-2",
-    "date": "[07|08|2024]",
+    "date": "[07|07|2024]",
     "body": "computer_graphics_2.md",
     "links": [],
     "references": "James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes. 1990. Computer graphics: principles and practice (2nd ed.). Addison-Wesley Longman Publishing Co., Inc., USA."
   },
   {
     "title": "Computer Graphics-1",
-    "date": "[06|08|2024]",
+    "date": "[06|07|2024]",
     "body": "computer_graphics_1.md",
     "links": [],
     "references": "James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes. 1990. Computer graphics: principles and practice (2nd ed.). Addison-Wesley Longman Publishing Co., Inc., USA."

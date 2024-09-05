@@ -1,4 +1,7 @@
-[
+{   "index": function() {
+    return notes_index++;
+}
+    "notes": [
  {
     "title": "Memory Allocation",
     "date": "[05|09|2024]",
@@ -54,4 +57,4 @@
     "links": [],
     "references": "References Here"
   }
-]
+]}

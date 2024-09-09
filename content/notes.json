@@ -1,4 +1,14 @@
- [
+[
+{
+    "title": "N-gram Language Model",
+    "date": "[09|09|2024]",
+    "body": "ngram_lang_model_1.md",
+     "links": [{
+         "name": "medium",
+         "link": "https://medium.com/mti-technology/n-gram-language-model-b7c2fc322799"
+     }],
+    "references": ""
+ },
  {
     "title": "Memory Allocation",
     "date": "[05|09|2024]",

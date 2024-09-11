@@ -1,5 +1,13 @@
 [
 {
+    "title": "RAII(Resource Acquisition is Initialization)",
+    "date": "[11|09|2024]",
+    "tags": [{"tag": "Memory Management"}],
+    "body": "raii_1.md",
+     "links": [],
+    "references": ""
+ },
+{
     "title": "N-gram Language Model",
     "date": "[09|09|2024]",
     "tags": [{"tag": "NLP"}],

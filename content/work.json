@@ -1,0 +1,8 @@
+[
+{
+    "title": "An Unnamed Lock Screen",
+    "type": "Open Source Project",
+    "description": "A WIP attempt to make a gpu-accelerated lockscreen for wlroots based wayland compositors which can render images, gifs, shaders with support for filters such as blur.",
+    "links": [{"name": "github", "link": "https://github.com/anant-357/something-lock-rs"}]
+  }
+]

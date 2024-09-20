@@ -2,7 +2,15 @@
 {
     "title": "An Unnamed Lock Screen",
     "type": "Open Source Project",
+    "techs": [{"tech": "WGPU"}, {"tech": "Wayland"}, {"tech": "Vulkan/OpenGL"}],
     "description": "A WIP attempt to make a gpu-accelerated lockscreen for wlroots based wayland compositors which can render images, gifs, shaders with support for filters such as blur.",
     "links": [{"name": "github", "link": "https://github.com/anant-357/something-lock-rs"}]
+  },
+  {
+    "title": "IESCP",
+    "type": "IITM Online Degree MAD-1 Project",
+    "techs": [{"tech": "Flask"}, {"tech": "WTForms"}, {"tech": "Bootstrap"}, {"tech": "SQLite"}],
+    "description": "A platform to connect Sponsors and Influencers so that sponsors can get their product/service advertised and influencers can get monetary benefit.",
+    "links": [{"name": "github", "link": "https://github.com/21f3001737/iescp"}]
   }
 ]

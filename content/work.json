@@ -2,7 +2,7 @@
 {
     "title": "An Unnamed Lock Screen",
     "type": "Open Source Project",
-    "techs": [{"tech": "WGPU"}, {"tech": "Wayland"}, {"tech": "Vulkan/OpenGL"}],
+    "techs": [{"tech": "WGPU"}, {"tech": "Wayland"}, {"tech": "Vulkan/OpenGL"}, {"tech": "Rust"}],
     "description": "A WIP attempt to make a gpu-accelerated lockscreen for wlroots based wayland compositors which can render images, gifs, shaders with support for filters such as blur.",
     "links": [{"name": "github", "link": "https://github.com/anant-357/something-lock-rs"}]
   },
@@ -12,5 +12,26 @@
     "techs": [{"tech": "Flask"}, {"tech": "WTForms"}, {"tech": "Bootstrap"}, {"tech": "SQLite"}],
     "description": "A platform to connect Sponsors and Influencers so that sponsors can get their product/service advertised and influencers can get monetary benefit.",
     "links": [{"name": "github", "link": "https://github.com/21f3001737/iescp"}]
+  },
+  {
+    "title": "Kernel",
+    "type": "Personal Project",
+    "techs": [{"tech": "Netwide Assembler"}, {"tech": "Rust"}],
+    "description": "A simple bootloader for x86_64 systems which boots into 32-bit protected mode and enters a kernel written in rust with support for framebuffers.",
+    "links": [{"name": "github", "link": "https://github.com/anant-357/kernel"}]
+  },
+  {
+    "title": "Shell",
+    "type": "Personal Project",
+    "techs": [{"tech": "Rust"}],
+    "description": "A shell with very very basic capabilities",
+    "links": [{"name": "github", "link": "https://github.com/anant-357/shell"}]
+  },
+  {
+    "title": "Program Dependence Graph",
+    "type": "Uni Project",
+    "techs": [{"tech": "LLVM"}, {"tech": "Clang"}, {"tech": "C++"}],
+    "description": "Design a compiler pass (LLVM) to take a C++ application as input, generate the program dependence graph.",
+    "links": [{"name": "github", "link": "https://github.com/anant-357/compiler-project"}]
   }
 ]

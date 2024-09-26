@@ -1,73 +1,123 @@
 [
-{
+  {
+    "title": "XML(Extensible Markup Language)",
+    "date": "[24|09|2024]",
+    "tags": [
+      {
+        "tag": "Semantic Web Technology"
+      }
+    ],
+    "body": "xml_1.md",
+    "links": [],
+    "references": ""
+  },
+  {
     "title": "RAII(Resource Acquisition is Initialization)",
     "date": "[11|09|2024]",
-    "tags": [{"tag": "Memory Management"}],
+    "tags": [
+      {
+        "tag": "Memory Management"
+      }
+    ],
     "body": "raii_1.md",
-     "links": [],
+    "links": [],
     "references": ""
- },
-{
+  },
+  {
     "title": "N-gram Language Model",
     "date": "[09|09|2024]",
-    "tags": [{"tag": "NLP"}],
+    "tags": [
+      {
+        "tag": "NLP"
+      }
+    ],
     "body": "ngram_lang_model_1.md",
-     "links": [{
-         "name": "medium",
-         "link": "https://medium.com/mti-technology/n-gram-language-model-b7c2fc322799"
-     }],
+    "links": [
+      {
+        "name": "medium",
+        "link": "https://medium.com/mti-technology/n-gram-language-model-b7c2fc322799"
+      }
+    ],
     "references": ""
- },
- {
+  },
+  {
     "title": "Memory Allocation",
-     "date": "[05|09|2024]",
-    "tags": [{"tag": "Memory Management"}],     
+    "date": "[05|09|2024]",
+    "tags": [
+      {
+        "tag": "Memory Management"
+      }
+    ],
     "body": "mem_alloc_1.md",
-     "links": [{
-         "name": "tsoding daily",
-         "link": "https://youtu.be/sZ8GJ1TiMdk?si=tO038Dlbs2xfZagR"
-     }],
+    "links": [
+      {
+        "name": "tsoding daily",
+        "link": "https://youtu.be/sZ8GJ1TiMdk?si=tO038Dlbs2xfZagR"
+      }
+    ],
     "references": ""
- },
- {
+  },
+  {
     "title": "Linear Regression",
-     "date": "[14|08|2024]",
-    "tags": [{"tag": "ML"}],     
+    "date": "[14|08|2024]",
+    "tags": [
+      {
+        "tag": "ML"
+      }
+    ],
     "body": "lin_reg_1.md",
-     "links": [],
+    "links": [],
     "references": ""
- },
- {
+  },
+  {
     "title": "Zero Knowledge SNARK",
-     "date": "[10|07|2024]",
-    "tags": [{"tag": "Blockchain"}],     
+    "date": "[10|07|2024]",
+    "tags": [
+      {
+        "tag": "Blockchain"
+      }
+    ],
     "body": "snark_1.md",
-     "links": [{
-         "name": "zkhack.dev",
-         "link": "https://zkhack.dev/whiteboard/module-one/"
-     }],
+    "links": [
+      {
+        "name": "zkhack.dev",
+        "link": "https://zkhack.dev/whiteboard/module-one/"
+      }
+    ],
     "references": ""
   },
   {
     "title": "Computer Graphics-2",
-      "date": "[07|07|2024]",
-    "tags": [{"tag": "Graphics"}],      
+    "date": "[07|07|2024]",
+    "tags": [
+      {
+        "tag": "Graphics"
+      }
+    ],
     "body": "computer_graphics_2.md",
     "links": [],
     "references": "James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes. 1990. Computer graphics: principles and practice (2nd ed.). Addison-Wesley Longman Publishing Co., Inc., USA."
   },
   {
     "title": "Computer Graphics-1",
-      "date": "[06|07|2024]",
-    "tags": [{"tag": "Graphics"}],      
+    "date": "[06|07|2024]",
+    "tags": [
+      {
+        "tag": "Graphics"
+      }
+    ],
     "body": "computer_graphics_1.md",
     "links": [],
     "references": "James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes. 1990. Computer graphics: principles and practice (2nd ed.). Addison-Wesley Longman Publishing Co., Inc., USA."
   },
   {
     "title": "Quantum Computing",
-      "date": "[24|05|2024]",
-    "tags": [{"tag": "Quantum"}],      
+    "date": "[24|05|2024]",
+    "tags": [
+      {
+        "tag": "Quantum"
+      }
+    ],
     "body": "quantum.md",
     "links": [],
     "references": ""
